@@ -4,7 +4,9 @@ Allow image file uploads, store link to filename relation in DB
 How to make it run?
 
 1/ Set up a virtual host at your web server
+
 2/ Create a DB or just prepare the credentails to connect to it
+
 3/ Copy `pdo_connect.php.sample` into `pdo_connect.php` and fill in DB connection credentials there
 
 ```
