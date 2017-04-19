@@ -1,0 +1,4 @@
+tags
+makefile
+*.swp
+/pdo_connect.php
